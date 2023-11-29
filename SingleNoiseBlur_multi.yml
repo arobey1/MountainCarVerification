@@ -18,6 +18,6 @@ unsafe:
     states:
     - reward <= 90
 
-print: 'off'
+print: 'on'
 plot: false
 dump: false
